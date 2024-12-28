@@ -1,0 +1,69 @@
+Question: What is the orange part of an egg called?
+A:Yolk
+B:Shell
+C:Albumen
+D:Chalaza
+Answer: A
+
+Question: How many legs do insects have?
+A:Four
+B:Six
+C:Eight
+D:Ten
+Answer: B
+
+Question: What is a baby kangaroo called?
+A:Cub
+B:Pup
+C:Joey
+D:Calf
+Answer: C
+
+Question: What is the closest planet to the Sun?
+A:Venus
+B:Mars
+C:Mercury
+D:Earth
+Answer: C
+
+Question: In which country can you find the Eiffel Tower?
+A:Italy
+B:Spain
+C:France
+D:Germany
+Answer: C
+
+Question: How many days are there in a year?
+A:365
+B:366
+C:360
+D:364
+Answer: A
+
+Question: How many players are in a soccer team?
+A:Nine
+B:Eleven
+C:Ten
+D:Twelve
+Answer: B
+
+Question: Where do polar bears live?
+A:Antarctica
+B:The Arctic
+C:Greenland
+D:Iceland
+Answer: B
+
+Question: Which is faster, light or sound?
+A:Light
+B:Sound
+C:Air
+D:Water
+Answer: A
+
+Question: How many letters are in the English alphabet?
+A:Twenty-four
+B:Twenty-five
+C:Twenty-six
+D:Twenty-seven
+Answer: C
