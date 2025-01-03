@@ -18,12 +18,12 @@ The Quiz Application is a Software administers multiple-choice quizzes, track sc
 
 # System Requirements
   ## Hardware Requirements
-    1. Processor: Any Modern processor
-    2. Memory: At least 4 GB of RAM
-    3. Storage: At least 100 MB of free disk space
+  1. Processor: Any Modern processor
+  2. Memory: At least 4 GB of RAM
+  3. Storage: At least 100 MB of free disk space
   ## Software Requirements
-    1. Operaing System: Windows or Linux
-    2. Java Runtime Environment(JRE): Java 8 or later
+  1. Operaing System: Windows or Linux
+  2. Java Runtime Environment(JRE): Java 8 or later
    
   
 # Contibuting
